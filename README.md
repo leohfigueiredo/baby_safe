@@ -1,7 +1,6 @@
 # baby_safe
 The Project was developed from the challenge of creating a product applying software engineering methods and techniques, for the IoT discipline
 
-```
 # Child Presence Detection System
 
 This repository contains the code for a Child Presence Detection System implemented using an ESP32 microcontroller and various sensors. The system is designed to prevent instances of leaving a child unattended inside a car by providing alerts and notifications to the driver.
@@ -43,10 +42,5 @@ This repository contains the code for a Child Presence Detection System implemen
 ## Contributing
 
 Contributions to improve and enhance the Child Presence Detection System are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
 
 Feel free to modify and customize the README according to your needs and additional information about your project.
