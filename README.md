@@ -1,9 +1,6 @@
 # baby_safe
 The Project was developed from the challenge of creating a product applying software engineering methods and techniques, for the IoT discipline
 
-
-Sure! Here's a sample README file for your GitHub repository based on the answer above:
-
 ```
 # Child Presence Detection System
 
