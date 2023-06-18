@@ -1,6 +1,8 @@
 # baby_safe
 The Project was developed from the challenge of creating a product applying software engineering methods and techniques, for the IoT discipline
 
+# video: https://www.loom.com/share/e6fac2da614e402fbc0cdaeef753b11a
+
 # Child Presence Detection System
 
 This repository contains the code for a Child Presence Detection System implemented using an ESP32 microcontroller and various sensors. The system is designed to prevent instances of leaving a child unattended inside a car by providing alerts and notifications to the driver.
