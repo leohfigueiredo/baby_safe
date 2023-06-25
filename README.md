@@ -28,7 +28,7 @@ This repository contains the code for a Child Presence Detection System implemen
 1. Clone or download this repository to your local machine.
 2. Open the Arduino IDE and ensure that you have the ESP32 board manager installed.
 3. Connect the ESP32 board to your computer.
-4. Open the `child_presence_detection_system.ino` file in the Arduino IDE.
+4. Open the Baby_safe_en.ino` file in the Arduino IDE.
 5. Modify the configuration variables in the code, such as Wi-Fi credentials and Blynk authentication token.
 6. Compile and upload the code to the ESP32 board.
 7. Follow the wiring instructions in the code comments to connect the sensors and indicators to the ESP32 board.
